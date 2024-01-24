@@ -2,7 +2,7 @@ body {
   font-family: Meiryo;
 }
 
-h1 {
+body h1 {
   padding: 0.3em 0.3em 0.3em 0.3em; /*文字の上下 左右の余白*/
   color: #343434; /*文字色*/
   background: #f4f4f4; /*背景色*/
@@ -11,13 +11,13 @@ h1 {
   width: 100%;
 }
 
-h2 {
+body h2 {
   border-left: 8px solid #617fcb;
   padding-left: 6px;
   border-bottom: 2px solid #617fcb;
 }
 
-h3 {
+body h3 {
   display: inline-block;
   border-bottom: 2px solid #68a3ce; /* 下線のスタイルを定義 */
 }
