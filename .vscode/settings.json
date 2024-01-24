@@ -1,0 +1,6 @@
+{
+    "markdown-pdf.breaks": true,
+    "markdown-pdf.highlightStyle": "github.css",
+    "markdown-pdf.displayHeaderFooter": true,
+    "markdown-pdf.headerTemplate": "\"\"",
+}
