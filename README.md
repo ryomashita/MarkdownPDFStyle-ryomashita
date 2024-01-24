@@ -13,3 +13,7 @@ Reference: https://github.com/yzane/vscode-markdown-pdf/blob/master/README.md#op
 - [arkdown-pdf.breaks](https://github.com/yzane/vscode-markdown-pdf/blob/master/README.ja.md#markdown-pdfbreaks)
   - set true (default: false).
   - enable hard_linke_breaks.
+
+- [markdown-pdf.mermaidServer](https://github.com/yzane/vscode-markdown-pdf/blob/master/README.ja.md#markdown-pdfmermaidserver)
+  - set `https://unpkg.com/mermaid@9/dist/mermaid.min.js`
+  - Issue&Solution: https://github.com/yzane/vscode-markdown-pdf/issues/312

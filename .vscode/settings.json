@@ -3,4 +3,5 @@
     "markdown-pdf.highlightStyle": "github.css",
     "markdown-pdf.displayHeaderFooter": true,
     "markdown-pdf.headerTemplate": "\"\"",
+    "markdown-pdf.mermaidServer": "https://unpkg.com/mermaid@9/dist/mermaid.min.js",
 }
