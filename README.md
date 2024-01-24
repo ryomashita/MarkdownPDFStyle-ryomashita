@@ -17,3 +17,9 @@ Reference: https://github.com/yzane/vscode-markdown-pdf/blob/master/README.md#op
 - [markdown-pdf.mermaidServer](https://github.com/yzane/vscode-markdown-pdf/blob/master/README.ja.md#markdown-pdfmermaidserver)
   - set `https://unpkg.com/mermaid@9/dist/mermaid.min.js`
   - Issue&Solution: https://github.com/yzane/vscode-markdown-pdf/issues/312
+  
+## Setting default style
+https://www.jackjasonb.com/2021/03/22/markdown-pdf-css/
+1. clone `github-markdown.css`
+2. delete `.markdown-` from all selectors
+3. config `vscode-markdown-pdf.styles`
